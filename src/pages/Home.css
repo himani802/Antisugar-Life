@@ -1,0 +1,62 @@
+.story-section {
+  background-color: #f1f2f4;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.story-section h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #111827;
+}
+
+.story-section p {
+  font-size: 16px;
+  color: #374151;
+  max-width: 800px;
+  margin: 10px auto;
+  line-height: 1.6;
+}
+
+/* Why Choose Section */
+.why-section {
+  background-color: #f8fbfe;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.why-section h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  color: #111827;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  background-color: white;
+  max-width: 300px;
+  padding: 25px 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  text-align: center;
+}
+
+.card h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 12px;
+  color: #111827;
+}
+
+.card p {
+  font-size: 14px;
+  color: #4b5563;
+}

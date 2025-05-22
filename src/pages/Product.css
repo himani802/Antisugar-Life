@@ -1,0 +1,32 @@
+.products-page {
+    padding: 3rem 1rem;
+    background-color: #f8fbfd;
+    min-height: 100vh;
+}
+
+.products-header {
+    text-align: center;
+    max-width: 750px;
+    margin: 0 auto 2rem auto;
+}
+
+.products-header h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #111827;
+}
+
+.products-header p {
+    font-size: 1.1rem;
+    color: #4b5563;
+    line-height: 1.6;
+}
+
+.products-grid {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    padding-top: 1rem;
+}
